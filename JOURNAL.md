@@ -1,7 +1,7 @@
 <div align="center">
   <h1>zyn</h1>
   <h3>By Shadow</h3>
-  <h3>Total Time Spent : 42 Hours</h3>
+  <h3>Total Time Spent : 43 Hours</h3>
 </div>
 
 ---
@@ -682,6 +682,22 @@ I rendered the board in 3D from a few angles. The blue one shows the back with t
 | zyn |
 | --- |
 | <img width="600" alt="full-board-final" src="images/full-board-final.png" /> |
+
+</div>
+
+---
+
+
+### Journal #28 Making the poster card
+Time spent : 2 hours   
+
+Once the board, the journal and the README were done, I made a poster style card to show the board off. I used the front render as the main picture, put the name ZYN above it and wrote a one line description under the board. I also added a footer bar at the bottom, so it looks like something I'd post with the project.
+
+<div align="center">
+
+| Poster card |
+| --- |
+| <img width="1080" height="1920" alt="zyn" src="https://github.com/user-attachments/assets/08128611-b540-49fa-9411-057d09848d66" /> |
 
 </div>
 
